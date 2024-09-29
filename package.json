@@ -16,14 +16,18 @@
     "@radix-ui/react-tabs": "^1.1.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "firebase": "^10.13.2",
+    "framer-motion": "^11.9.0",
     "lucide-react": "^0.446.0",
     "next": "14.2.13",
-    "react": "^18",
+    "react": "^18.3.1",
     "react-dom": "^18",
     "react-router-dom": "^6.26.2",
+    "react-toastify": "^10.0.5",
     "react-transition-group": "^4.4.5",
     "tailwind-merge": "^2.5.2",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "toastify": "^2.0.1"
   },
   "devDependencies": {
     "@shadcn/ui": "^0.0.4",
